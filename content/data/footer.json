@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "```\nBrand Description\n```\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
