@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Let’s build your brand online today!
+      text: Turn Your Vision into a Powerful Online Presence.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
