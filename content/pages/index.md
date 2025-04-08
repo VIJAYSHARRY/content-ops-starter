@@ -7,7 +7,9 @@ sections:
       text: Turn Your Vision into a Powerful Online Presence.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      “We help entrepreneurs and businesses in the UAE launch stunning websites
+      & online stores – fast, easy, and affordable
     text: >
       We help entrepreneurs and businesses in the UAE launch stunning websites &
       online stores – fast, easy, and affordable.
