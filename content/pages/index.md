@@ -10,9 +10,15 @@ sections:
     subtitle: >-
       “We help entrepreneurs and businesses in the UAE launch stunning websites
       & online stores – fast, easy, and affordable
-    text: >
-      We help entrepreneurs and businesses in the UAE launch stunning websites &
-      online stores – fast, easy, and affordable.
+    text: >+
+      ```
+
+      VBTS helps startups, small businesses & growing brands in the UAE go
+      digital. From websites to complete e-commerce solutions — we design,
+      develop, and deliver your online presence with speed & style.
+
+      ```
+
     actions:
       - label: Get started
         altText: ''
