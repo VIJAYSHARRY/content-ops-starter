@@ -14,8 +14,8 @@
     "primaryLinks": [
         {
             "type": "SubNav",
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Trading",
+            "altText": "Trading-Vijay Bharat trading and services",
             "links": [
                 {
                     "type": "Link",
@@ -54,32 +54,6 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Services",
             "altText": "Services-THE VIJAY BHARAT TRADING AND SERVICES",
             "links": [
@@ -110,29 +84,37 @@
                     "type": "Link"
                 }
             ],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
-        }
-    ],
-    "secondaryLinks": [
+        },
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "label": "Pricing",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
+            "type": "Link"
         },
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Careers",
+            "altText": "Careers page",
+            "url": "/careers",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
