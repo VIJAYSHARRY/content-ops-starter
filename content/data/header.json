@@ -80,24 +80,26 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Services",
+            "altText": "Services-THE VIJAY BHARAT TRADING AND SERVICES",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "SEO SERVICES",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "SEO SERVICES-THE VIJAY BHARAT TRADING AND SERVICES"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Web Development ",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Web Development -THE VIJAY BHARAT TRADING AND SERVICES"
                 },
                 {
                     "label": "Dropdown item",
