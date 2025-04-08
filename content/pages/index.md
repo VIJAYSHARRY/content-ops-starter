@@ -751,7 +751,11 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - THE VIJAY BHARAT TRADING AND SERVICES
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    The Vijay Bharat Trading and Services (VBTS INDIA) offers premium website
+    development and e-commerce solutions for startups and businesses in the UAE.
+    Build your online brand with modern design, fast performance, and expert
+    support.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
