@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Grow online
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
