@@ -760,5 +760,10 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:description'
+      content: >-
+        The Vijay Bharat Trading and Services (VBTS INDIA) offers premium
+        website development and e-commerce solutions for startups and businesses
+        in the UAE. Build your online brand with modern design, fast
+        performance, and expert support.
 type: PageLayout
 ---
