@@ -759,5 +759,6 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+      property: 'og:description'
 type: PageLayout
 ---
