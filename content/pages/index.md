@@ -756,7 +756,6 @@ seo:
     development and e-commerce solutions for startups and businesses in the UAE.
     Build your online brand with modern design, fast performance, and expert
     support.
-  socialImage: '/images/ChatGPT Image Apr 7, 2025, 07_53_00 PM.png'
   type: Seo
   metaTags:
     - type: MetaTag
