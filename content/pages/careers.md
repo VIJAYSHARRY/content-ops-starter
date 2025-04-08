@@ -160,7 +160,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Careers -THE VIJAY BHARAT TRADING AND SERVICES
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: Careers -THE VIJAY BHARAT TRADING AND SERVICES
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
