@@ -758,5 +758,7 @@ seo:
     support.
   socialImage: '/images/ChatGPT Image Apr 7, 2025, 07_53_00 PM.png'
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
