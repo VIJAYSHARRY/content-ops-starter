@@ -1,12 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "url": "/images/favicon.svg",
+        "altText": "THE VIJAY BHARAT TRADING AND SERVICES",
         "type": "ImageBlock"
     },
-    "text": "```\nBrand Description\n```\n\n",
+    "text": "*VBTS helps startups, small businesses & growing brands in the UAE go digital. From websites to complete e-commerce solutions — we design, develop, and deliver your online presence with speed & style.*\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "ProductS",
         "links": [
             {
                 "label": "Features",
@@ -37,7 +37,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "THE VIJAY BHARAT TRADING AND SERVICES",
         "links": [
             {
                 "label": "Careers",
@@ -87,12 +87,13 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Terms of services",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Terms of services of THE VIJAY BHARAT TRADING AND SERVICES"
         },
         {
             "label": "Privacy",
