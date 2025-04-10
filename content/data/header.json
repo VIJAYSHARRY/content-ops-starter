@@ -8,8 +8,7 @@
                 ]
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/background-grid.svg"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {
