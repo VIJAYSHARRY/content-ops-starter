@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: +13k
-        subtitle: Numbers Done
+        subtitle: Projects Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
