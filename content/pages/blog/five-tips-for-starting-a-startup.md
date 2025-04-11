@@ -18,7 +18,7 @@ isFeatured: false
 isDraft: false
 seo:
   metaTitle: 5 Tips for Starting a Startup
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: 5 Tips for Starting a Startup by CEO and Founder of The Vijay Bharat Trading and services.
   socialImage: /images/abstract-feature1.svg
   type: Seo
 colors: bg-light-fg-dark
