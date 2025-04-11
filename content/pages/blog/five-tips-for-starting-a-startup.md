@@ -28,7 +28,6 @@ styles:
 author: content/data/person6.json
 type: PostLayout
 ---
-
 1. Start with a Clear Problem to Solve
 **A successful business solves a real problem or fulfills a strong need. Ask yourself:**
 
