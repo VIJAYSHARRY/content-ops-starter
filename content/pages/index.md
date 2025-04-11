@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /PAGES/BLOG
         showIcon: false
         icon: arrowRight
         iconPosition: right
