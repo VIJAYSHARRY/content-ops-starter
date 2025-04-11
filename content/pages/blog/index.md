@@ -33,7 +33,7 @@ styles:
 seo:
   metaTitle: Blog - THE VIJAY BHARAT TRADING AND SERVICES
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
+    the Vijay bharat Trading and services is all about technology, product,
     and design.
   socialImage: /images/img-placeholder.svg
   type: Seo
