@@ -759,7 +759,7 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: 'og:description'
+      property: ''
       content: >-
         The Vijay Bharat Trading and Services (VBTS INDIA) offers premium
         website development and e-commerce solutions for startups and businesses
