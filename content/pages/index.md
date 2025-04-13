@@ -765,5 +765,6 @@ seo:
         website development and e-commerce solutions for startups and businesses
         in the UAE. Build your online brand with modern design, fast
         performance, and expert support.
+  socialImage: /images/VIJAY BHARAT TRADING AND SERVICES LOGO-NO BACKGROUND.png
 type: PageLayout
 ---
