@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home-The Vijay Bharat Trading And Services
 slug: /
 sections:
   - type: GenericSection
@@ -752,19 +752,18 @@ sections:
 seo:
   metaTitle: HOME-THE VIJAY BHARAT TRADING AND SERVICES
   metaDescription: >-
-    The Vijay Bharat Trading and Services (VBTS INDIA) offers premium website
-    development and e-commerce solutions for startups and businesses in the UAE.
-    Build your online brand with modern design, fast performance, and expert
-    support.
+    The Vijay Bharat Trading and Services offers premium website development and
+    e-commerce solutions for startups and businesses in the UAE. Build your
+    online brand with modern design, fast performance, and expert support.
   type: Seo
   metaTags:
     - type: MetaTag
       property: 'og:title'
       content: >-
-        The Vijay Bharat Trading and Services (VBTS INDIA) offers premium
-        website development and e-commerce solutions for startups and businesses
-        in the UAE. Build your online brand with modern design, fast
-        performance, and expert support.
+        The Vijay Bharat Trading and Services  offers premium website
+        development and e-commerce solutions for startups and businesses in the
+        UAE. Build your online brand with modern design, fast performance, and
+        expert support.
   socialImage: /images/VIJAY BHARAT TRADING AND SERVICES LOGO-NO BACKGROUND.png
 type: PageLayout
 ---

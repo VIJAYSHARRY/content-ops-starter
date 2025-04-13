@@ -18,8 +18,8 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "Gold And Diamonds",
+                    "altText": "Gold And Diamond Import And Export in Worldwide-The Vijay Bharat Trading And services",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -29,8 +29,8 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "Foods And Beverages",
+                    "altText": "Foods And Beverages Import and export in worldwide- The Vijay Bharat Trading and services.",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -40,8 +40,8 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "Luxua",
+                    "altText": "Clothing-The Vijay Bharat Trading And Services.",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -102,20 +102,11 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": "The Vijay Bharat Trading and Services"
+    "title": ""
 }
