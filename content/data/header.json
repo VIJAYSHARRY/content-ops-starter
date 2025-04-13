@@ -13,14 +13,14 @@
     "primaryLinks": [
         {
             "type": "SubNav",
-            "label": "Trading",
-            "altText": "Trading-Vijay Bharat trading and services",
+            "label": "Marketing",
+            "altText": "Marketing-Vijay Bharat trading and services",
             "links": [
                 {
                     "type": "Link",
-                    "label": "Gold And Diamonds",
-                    "altText": "Gold And Diamond Import And Export in Worldwide-The Vijay Bharat Trading And services",
-                    "url": "/",
+                    "label": "Service Marketing",
+                    "altText": "Service Marketing-The Vijay Bharat Trading And services",
+                    "url": "/service-marketing-sell-your-services-wordlwide",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -29,20 +29,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Foods And Beverages",
-                    "altText": "Foods And Beverages Import and export in worldwide- The Vijay Bharat Trading and services.",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Luxua",
-                    "altText": "Clothing-The Vijay Bharat Trading And Services.",
-                    "url": "/",
+                    "label": "Product Marketing",
+                    "altText": "Product Marketing- The Vijay Bharat Trading and services.",
+                    "url": "/Product-Marketing-Online-Marketing-in-UAE",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
