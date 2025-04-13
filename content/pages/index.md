@@ -222,7 +222,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Data is the GOD
+      text: Our Case Studies
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
