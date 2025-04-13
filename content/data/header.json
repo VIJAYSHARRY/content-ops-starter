@@ -69,7 +69,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "One Time Setup Website-The Vijay Bharat Trading And Services"
                 }
             ],
             "labelStyle": "primary",
