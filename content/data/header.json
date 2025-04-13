@@ -18,9 +18,9 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Service Marketing",
-                    "altText": "Service Marketing-The Vijay Bharat Trading And services",
-                    "url": "/service-marketing-sell-your-services-wordlwide",
+                    "label": "Online Marketing",
+                    "altText": "Online Marketing-The Vijay Bharat Trading And services",
+                    "url": "/Online-marketing-sell-your-services-wordlwide",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -29,9 +29,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Product Marketing",
-                    "altText": "Product Marketing- The Vijay Bharat Trading and services.",
-                    "url": "/Product-Marketing-Online-Marketing-in-UAE",
+                    "label": "Offline Marketing",
+                    "altText": "Offline Marketing- The Vijay Bharat Trading and services.",
+                    "url": "/offline-Marketing-Online-Marketing-in-UAE",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -42,34 +42,35 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "Services",
-            "altText": "Services-THE VIJAY BHARAT TRADING AND SERVICES",
+            "label": "Development",
+            "altText": "Development-THE VIJAY BHARAT TRADING AND SERVICES",
             "links": [
                 {
-                    "label": "SEO SERVICES",
+                    "label": "WordPress Development",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link",
-                    "altText": "SEO SERVICES-THE VIJAY BHARAT TRADING AND SERVICES"
+                    "altText": "WordPress Development-THE VIJAY BHARAT TRADING AND SERVICES"
                 },
                 {
-                    "label": "Web Development ",
+                    "label": "Shopify Development ",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link",
-                    "altText": "Web Development -THE VIJAY BHARAT TRADING AND SERVICES"
+                    "altText": "Shopify-THE VIJAY BHARAT TRADING AND SERVICES"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "One Time Setup Website",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "One Time Setup Website-The Vijay Bharat Trading And Services"
                 }
             ],
             "labelStyle": "primary",
