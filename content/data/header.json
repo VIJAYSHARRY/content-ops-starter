@@ -1,72 +1,102 @@
 {
-  "label": "Marketing",
-  "altText": "Marketing-Vijay Bharat trading and services",
-  "type": "SubNav",
-  "labelStyle": "secondary",
-  "links": [
-    {
-      "type": "SubNav",
-      "label": "Online Marketing",
-      "altText": "Online Marketing-The Vijay Bharat Trading And services",
-      "labelStyle": "secondary",
-      "links": [
-        {
-          "type": "Link",
-          "label": "Meta Ads",
-          "altText": "Meta Ads Services - Vijay Bharat Trading and Services",
-          "url": "/online-marketing/meta-ads",
-          "icon": "arrowRight",
-          "iconPosition": "right",
-          "style": "secondary"
+    "logo": {
+        "altText": "VIJAY BHARAT TRADING AND SERVICES",
+        "styles": {
+            "self": {
+                "margin": [
+                    "mr-3"
+                ]
+            }
         },
-        {
-          "type": "Link",
-          "label": "Google Ads",
-          "altText": "Google Ads Services - Vijay Bharat Trading and Services",
-          "url": "/online-marketing/google-ads",
-          "icon": "arrowRight",
-          "iconPosition": "right",
-          "style": "secondary"
-        },
-        {
-          "type": "Link",
-          "label": "SEO Services",
-          "altText": "SEO Services - Vijay Bharat Trading and Services",
-          "url": "/online-marketing/seo",
-          "icon": "arrowRight",
-          "iconPosition": "right",
-          "style": "secondary"
-        },
-        {
-          "type": "Link",
-          "label": "Email Marketing",
-          "altText": "Email Marketing - Vijay Bharat Trading and Services",
-          "url": "/online-marketing/email-marketing",
-          "icon": "arrowRight",
-          "iconPosition": "right",
-          "style": "secondary"
-        },
-        {
-          "type": "Link",
-          "label": "Influencer Marketing",
-          "altText": "Influencer Marketing - Vijay Bharat Trading and Services",
-          "url": "/online-marketing/influencer-marketing",
-          "icon": "arrowRight",
-          "iconPosition": "right",
-          "style": "secondary"
-        }
-      ]
+        "type": "ImageBlock"
     },
-    {
-      "type": "Link",
-      "label": "Offline Marketing",
-      "altText": "Offline Marketing - The Vijay Bharat Trading and Services.",
-      "url": "/offline-Marketing-Online-Marketing-in-UAE",
-      "showIcon": false,
-      "icon": "arrowRight",
-      "iconPosition": "right",
-      "style": "secondary",
-      "elementId": ""
-    }
-  ]
+    "primaryLinks": [
+        {
+            "type": "SubNav",
+            "label": "Marketing",
+            "altText": "Marketing-Vijay Bharat trading and services",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Online Marketing",
+                    "altText": "Online Marketing-The Vijay Bharat Trading And services",
+                    "url": "/Online-marketing-sell-your-services-wordlwide",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Offline Marketing",
+                    "altText": "Offline Marketing- The Vijay Bharat Trading and services.",
+                    "url": "/offline-Marketing-Online-Marketing-in-UAE",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
+            "label": "Development",
+            "altText": "Development-THE VIJAY BHARAT TRADING AND SERVICES",
+            "links": [
+                {
+                    "label": "WordPress Development",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "WordPress Development-THE VIJAY BHARAT TRADING AND SERVICES"
+                },
+                {
+                    "label": "Shopify Development ",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Shopify-THE VIJAY BHARAT TRADING AND SERVICES"
+                },
+                {
+                    "label": "One Time Setup Website",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "One Time Setup Website-The Vijay Bharat Trading And Services"
+                }
+            ],
+            "labelStyle": "primary",
+            "type": "SubNav"
+        },
+        {
+            "label": "Pricing",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        }
+    ],
+    "secondaryLinks": [],
+    "variant": "logo-left-primary-nav-centered",
+    "colors": "bg-light-fg-dark",
+    "type": "Header",
+    "title": ""
 }
