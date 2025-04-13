@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home-The Vijay Bharat Trading And Services
 slug: /
 sections:
   - type: GenericSection
