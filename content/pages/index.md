@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 5 Years
-        subtitle: The Job Stuff
+        subtitle: Free Maintainance
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
