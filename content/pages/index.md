@@ -269,9 +269,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: That Grows Your Brand
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      Struggling to stay active on social media? We’ve got you covered. From
+      content creation to daily posting, engagement, and strategy — we manage
+      your social platforms to boost visibility, drive traffic, and build a
+      loyal online community. Let us turn likes into leads and followers into
+      customers.
+
     actions:
       - label: Get started
         url: /
