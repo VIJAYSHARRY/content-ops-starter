@@ -221,11 +221,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Offline marketing uses tangible touchpoints like billboards, events, and
+      pamphlets to establish trust.  It provides greater local influence and
+      less competition in a world that is increasingly digital.  When combined
+      with internet resources like QR codes, it produces a potent, well-rounded
+      approach that increases exposure, trust, and enduring client
+      relationships.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
