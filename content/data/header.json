@@ -77,12 +77,13 @@
             "type": "SubNav"
         },
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "About Us",
+            "url": "/about-The-Vijay-Bharat-Trading-and-services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "About Us-The Vijay Bharat Trading and Services"
         },
         {
             "label": "Blog",
