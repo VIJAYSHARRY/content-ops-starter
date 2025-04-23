@@ -381,7 +381,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Request Form
         url: /
         icon: arrowRight
         iconPosition: right
