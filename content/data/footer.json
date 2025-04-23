@@ -32,7 +32,8 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Business Consulting-The Vijay Bharat Trading And Services"
             }
         ],
         "type": "FooterLinksGroup"
