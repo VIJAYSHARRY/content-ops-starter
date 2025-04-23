@@ -159,8 +159,8 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: Careers -THE VIJAY BHARAT TRADING AND SERVICES
+  metaDescription: Careers -THE VIJAY BHARAT TRADING AND SERVICES
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

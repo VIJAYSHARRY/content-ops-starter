@@ -6,11 +6,11 @@
     },
     "text": "*VBTS helps startups, small businesses & growing brands in the world to go digital. From websites to complete e-commerce solutions — we design, develop, and deliver your online presence with speed & style.*\n",
     "primaryLinks": {
-        "title": "ProductS",
+        "title": "Services",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Web Development",
+                "altText": "Web Development-The Vijay Bharat Trading And Services",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,20 +18,22 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Marketing",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Marketing-The Vijay Bharat Trading And Services"
             },
             {
-                "label": "Documentation",
+                "label": "Business Consulting",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Business Consulting-The Vijay Bharat Trading And Services"
             }
         ],
         "type": "FooterLinksGroup"
