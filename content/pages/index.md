@@ -119,7 +119,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: All in 1 and Faster
         text: >+
 
           All-in-One Solution That’s 200% Faster Than the Competition —
