@@ -337,7 +337,7 @@ sections:
       type: TitleBlock
       text: Website Development with E-Commerce Expertise
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Turn your idea into high performing reality
     text: >+
 
       We build fast, secure, and stunning websites that don’t just look good —
