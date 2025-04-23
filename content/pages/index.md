@@ -67,9 +67,8 @@ sections:
         title: +13k
         subtitle: Projects Done
         text: >+
-
-          Over 13,000 Projects Successfully Completed — A Proven Track Record of
-          Excellence, Innovation, and Unmatched Industry Experience Worldwide
+          ## Over 13,000 Projects Successfully Completed — A Proven Track Record
+          of Excellence, Innovation, and Unmatched Industry Experience Worldwide
 
         actions: []
         elementId: null
