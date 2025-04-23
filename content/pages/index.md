@@ -278,7 +278,7 @@ sections:
       customers.
 
     actions:
-      - label: Request Demo
+      - label: Request Form
         url: /
         icon: arrowRight
         iconPosition: right
