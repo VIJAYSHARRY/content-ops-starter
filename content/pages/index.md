@@ -284,6 +284,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Social Media Management-The Vijay Bharat Trading And Services
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
