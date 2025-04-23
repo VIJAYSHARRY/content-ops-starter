@@ -365,6 +365,41 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Talent Acquisition & Onboarding Expertise
+      color: text-dark
+    subtitle: 'Build winning teams, faster.'
+    text: >+
+
+      We don’t just help you hire — we help you grow. With deep talent
+      acquisition insight and seamless onboarding systems, we bring you people
+      who perform from day one. From sourcing top talent to integrating them
+      into your team, we take care of every step — so you can focus on scaling
+      with confidence.
+
+    actions:
+      - type: Button
+        label: Request Form
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        altText: Talent Acquisition-The Vijay Bharat Trading and Services
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Service
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
