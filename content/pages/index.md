@@ -11,7 +11,7 @@ sections:
       We help entrepreneurs and businesses in the world to launch stunning
       websites & online stores – fast, easy, and affordable
     text: >
-      VBTS helps startups, small businesses & growing brands in the UAE go
+      VBTS helps startups, small businesses & growing brands in the world to go
       digital. From websites to complete e-commerce solutions — we design,
       develop, and deliver your online presence with speed & style.
     actions:
@@ -250,7 +250,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Key Benefit
       color: text-primary
       styles:
         self:
@@ -264,77 +264,33 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Social Media Management
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: That Grows Your Brand
+    text: >+
+
+      Struggling to stay active on social media? We’ve got you covered. From
+      content creation to daily posting, engagement, and strategy — we manage
+      your social platforms to boost visibility, drive traffic, and build a
+      loyal online community. Let us turn likes into leads and followers into
+      customers.
+
     actions:
-      - label: Get started
+      - label: Request Form
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+        altText: Social Media Management-The Vijay Bharat Trading And Services
     media:
-      url: /images/hero2.svg
+      url: /images/hero3.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Service
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -346,30 +302,28 @@ sections:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    subtitle: Expert Business Consulting for Smarter Growth
+    text: >+
+
+      Whether you're launching a startup or scaling an established business, our
+      consulting services provide strategic guidance tailored to your goals.
+      From operations to branding and digital transformation, we help you make
+      smarter decisions, streamline processes, and unlock new growth
+      opportunities. Your vision, backed by our expertise.
+
     actions:
-      - label: Get started
+      - label: Request Form
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Service
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -378,6 +332,39 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Website Development with E-Commerce Expertise
+      color: text-dark
+    subtitle: Turn your idea into high performing reality
+    text: >+
+
+      We build fast, secure, and stunning websites that don’t just look good —
+      they sell. With deep e-commerce know-how, we craft online stores that
+      drive conversions, boost user experience, and support scalable growth.
+      From design to checkout, we turn your digital vision into a
+      high-performing reality.
+
+    actions:
+      - type: Button
+        label: Request Form
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: Service
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
