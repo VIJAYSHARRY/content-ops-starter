@@ -286,7 +286,7 @@ sections:
         type: Button
         altText: Social Media Management-The Vijay Bharat Trading And Services
     media:
-      url: /images/hero2.svg
+      url: /images/hero3.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
