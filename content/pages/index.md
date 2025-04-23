@@ -278,7 +278,7 @@ sections:
       customers.
 
     actions:
-      - label: Get started
+      - label: Request Demo
         url: /
         icon: arrowRight
         iconPosition: right
