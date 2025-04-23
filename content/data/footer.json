@@ -67,15 +67,15 @@
             "type": "Social"
         },
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "youtube",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/106558071",
             "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/netlify",
+            "icon": "youtube",
             "type": "Social"
         },
         {
