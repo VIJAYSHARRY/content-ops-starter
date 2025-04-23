@@ -338,9 +338,14 @@ sections:
       text: Website Development with E-Commerce Expertise
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      We build fast, secure, and stunning websites that don’t just look good —
+      they sell. With deep e-commerce know-how, we craft online stores that
+      drive conversions, boost user experience, and support scalable growth.
+      From design to checkout, we turn your digital vision into a
+      high-performing reality.
+
     actions:
       - type: Button
         label: Get started
