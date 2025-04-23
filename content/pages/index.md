@@ -94,10 +94,11 @@ sections:
               borderRadius: x-large
       - title: 5 Years
         subtitle: Free Maintainance
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Enjoy 5 Years of Free Product Maintenance — An Unmatched Offer Rarely
+          Found in Today’s Market.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
