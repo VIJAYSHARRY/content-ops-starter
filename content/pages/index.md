@@ -312,7 +312,7 @@ sections:
       opportunities. Your vision, backed by our expertise.
 
     actions:
-      - label: Get started
+      - label: Request form
         url: /
         icon: arrowRight
         iconPosition: right
