@@ -386,6 +386,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Talent Acquisition-The Vijay Bharat Trading and Services
     media:
       type: ImageBlock
       url: /images/hero3.svg
