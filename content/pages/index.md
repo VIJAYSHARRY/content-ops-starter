@@ -220,7 +220,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Advantage
     text: >+
       Offline marketing uses tangible touchpoints like billboards, events, and
       pamphlets to establish trust.  It provides greater local influence and
