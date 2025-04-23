@@ -66,8 +66,11 @@ sections:
       - type: FeaturedItem
         title: +13k
         subtitle: Projects Done
-        text: |
-          Experience That Speaks for Itself
+        text: >+
+
+          Over 13,000 Projects Successfully Completed — A Proven Track Record of
+          Excellence, Innovation, and Unmatched Industry Experience Worldwide
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
