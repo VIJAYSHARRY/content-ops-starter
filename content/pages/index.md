@@ -66,10 +66,8 @@ sections:
       - type: FeaturedItem
         title: +13k
         subtitle: Projects Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Experience That Speaks for Itself
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
