@@ -73,15 +73,15 @@
             "type": "Social"
         },
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "youtube",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "info@thevijaybharat.com",
             "icon": "mail",
+            "type": "Social"
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/netlify",
+            "icon": "youtube",
             "type": "Social"
         }
     ],
