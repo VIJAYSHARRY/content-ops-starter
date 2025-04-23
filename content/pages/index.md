@@ -66,8 +66,10 @@ sections:
       - type: FeaturedItem
         title: +13k
         subtitle: Projects Done
-        text: |
-          Experience That Speaks for Itself
+        text: >+
+          Over 13,000 Projects Successfully Completed — A Proven Track Record of
+          Excellence, Innovation, and Unmatched Industry Experience Worldwide
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +92,13 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 5 Years
+        subtitle: Free Maintainance
+        text: >+
+
+          Enjoy 5 Years of Free Product Maintenance — An Unmatched Offer Rarely
+          Found in Today’s Market.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,11 +119,12 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: All in 1 and Faster
+        text: >+
+
+          All-in-One Solution That’s 200% Faster Than the Competition —
+          Efficiency Redefined.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -199,29 +203,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: Cases
-      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
