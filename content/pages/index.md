@@ -74,10 +74,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-6
-              - pl-5
-              - pb-6
-              - pr-5
+              - pt-10
+              - pl-10
+              - pb-10
+              - pr-10
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
