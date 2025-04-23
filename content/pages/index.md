@@ -371,9 +371,14 @@ sections:
       text: Talent Acquisition & Onboarding Expertise
       color: text-dark
     subtitle: 'Build winning teams, faster.'
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+
+      We don’t just help you hire — we help you grow. With deep talent
+      acquisition insight and seamless onboarding systems, we bring you people
+      who perform from day one. From sourcing top talent to integrating them
+      into your team, we take care of every step — so you can focus on scaling
+      with confidence.
+
     actions:
       - type: Button
         label: Get started
