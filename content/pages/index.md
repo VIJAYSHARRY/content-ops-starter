@@ -61,7 +61,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Why Choose Us? Here’s What Makes Us Stand Out
     items:
       - type: FeaturedItem
         title: +13k
