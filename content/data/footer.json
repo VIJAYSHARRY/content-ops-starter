@@ -61,15 +61,15 @@
     },
     "socialLinks": [
         {
-            "altText": "Instagram-Vijay Bharat Trading and services",
-            "url": "https://www.instagram.com/worldwide_sale1/",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "info@thevijaybharat.com",
             "icon": "mail",
+            "type": "Social"
+        },
+        {
+            "altText": "Instagram-Vijay Bharat Trading and services",
+            "url": "https://www.instagram.com/worldwide_sale1/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
