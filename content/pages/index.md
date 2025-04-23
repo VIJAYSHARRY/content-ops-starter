@@ -303,9 +303,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Expert Business Consulting for Smarter Growth
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+
+      Whether you're launching a startup or scaling an established business, our
+      consulting services provide strategic guidance tailored to your goals.
+      From operations to branding and digital transformation, we help you make
+      smarter decisions, streamline processes, and unlock new growth
+      opportunities. Your vision, backed by our expertise.
+
     actions:
       - label: Get started
         url: /
