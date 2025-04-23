@@ -368,7 +368,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Talent Acquisition & Onboarding Expertise
       color: text-dark
     subtitle: Be in good company
     text: >
