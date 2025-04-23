@@ -77,13 +77,6 @@
             "type": "SubNav"
         },
         {
-            "type": "SubNav",
-            "label": "Careers",
-            "altText": "",
-            "links": [],
-            "labelStyle": "primary"
-        },
-        {
             "label": "About Us",
             "url": "/about-The-Vijay-Bharat-Trading-and-services",
             "icon": "arrowRight",
