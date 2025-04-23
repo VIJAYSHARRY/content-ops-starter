@@ -81,7 +81,7 @@
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [],
-            "labelStyle": "secondary"
+            "labelStyle": "primary"
         },
         {
             "label": "About Us",
