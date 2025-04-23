@@ -335,7 +335,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Website Development with E-Commerce Expertise
       color: text-dark
     subtitle: Increase your reach
     text: >
