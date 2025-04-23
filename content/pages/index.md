@@ -370,7 +370,7 @@ sections:
       type: TitleBlock
       text: Talent Acquisition & Onboarding Expertise
       color: text-dark
-    subtitle: Be in good company
+    subtitle: 'Build winning teams, faster.'
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
