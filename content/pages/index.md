@@ -465,7 +465,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Let’s get in touch
+      label: Contact Us
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
