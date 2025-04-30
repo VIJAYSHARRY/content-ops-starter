@@ -433,14 +433,14 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email Address
+          placeholder: Your email
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Quote Your message
+          placeholder: Your message
           width: full
           type: TextareaFormControl
       elementId: contact-form
