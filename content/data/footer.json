@@ -81,7 +81,7 @@
             "type": "Social"
         },
         {
-            "altText": "GitHub link",
+            "altText": "Youtube-Vijay Bharat trading and services",
             "url": "https://github.com/netlify",
             "icon": "youtube",
             "type": "Social"
@@ -105,6 +105,12 @@
             "style": "secondary",
             "type": "Link"
         }
+{
+    "altText": "WhatsApp Chat - Vijay Bharat",
+    "url": "javascript:openWhatsApp()",
+    "icon": "whatsapp",
+    "type": "Social"
+  }
     ],
     "copyrightText": "Powered by The Vijay Bharat Trading And Services\n",
     "colors": "bg-neutral-fg-dark",
