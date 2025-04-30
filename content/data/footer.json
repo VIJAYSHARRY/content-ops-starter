@@ -109,4 +109,24 @@
     "copyrightText": "Powered by The Vijay Bharat Trading And Services\n",
     "colors": "bg-neutral-fg-dark",
     "type": "Footer"
+<!-- WhatsApp Custom Icon -->
+{ 
+<a href="javascript:openWhatsApp()" title="Chat on WhatsApp">
+  <img 
+    src="https://cdn.shopify.com/s/files/1/0553/7765/7913/files/WhatsApp_Al_Fanan_Jewellery_LLC.png?v=1710693680" 
+    alt="WhatsApp us" 
+    style="height: 30px; width: auto; margin-left: 10px;"
+  />
+</a>
+
+<!-- WhatsApp Script -->
+<script>
+  function openWhatsApp() {
+    var currentPageURL = window.location.href;
+    var message = encodeURIComponent(`I have a question about this page: ${currentPageURL}`);
+    var whatsappURL = `https://wa.me/+971524809799?text=${message}`;
+    window.open(whatsappURL, '_blank');
+  }
+</script>
+
 }
