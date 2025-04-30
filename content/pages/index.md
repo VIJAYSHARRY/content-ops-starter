@@ -415,11 +415,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Have a question, a business inquiry, or just want to say hello? We’re here
+      to help and answer any questions you might have. Simply fill out the form
+      and we’ll get back to you as soon as possible — usually within 24 hours.
+
     media:
       fields:
         - name: name
