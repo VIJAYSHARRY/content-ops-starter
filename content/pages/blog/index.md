@@ -34,6 +34,7 @@ topSections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/VIJAY BHARAT TRADING AND SERVICES LOGO-small size.png
 styles:
   title:
     textAlign: center
