@@ -34,6 +34,39 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "Business Consulting-The Vijay Bharat Trading And Services"
+            },
+            {
+                "type": "Link",
+                "label": "Financial Services",
+                "altText": "Financial Services-VIJAY BHARAT TRADING AND SERVICES",
+                "url": "/Financial Services",
+                "showIcon": false,
+                "icon": "facebook",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "UAE VAT Consultation",
+                "altText": "UAE VAT CONSULTATION-THE VIJAY BHARAT TRADING AND SERVICES",
+                "url": "/UAE-VAT-VIJAY BHARAT",
+                "showIcon": false,
+                "icon": "",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Bookkeeping Services",
+                "altText": "Bookkeeping Services-The Vijay Bharat Trading Services",
+                "url": "/bookkeeping",
+                "showIcon": false,
+                "icon": "",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -57,6 +90,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Marketing",
+                "altText": "Marketing-THE VIJAY BHARAT TRADING AND SERVICES",
+                "url": "/Marketing",
+                "showIcon": false,
+                "icon": "",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
