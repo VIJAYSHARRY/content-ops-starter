@@ -3,9 +3,7 @@ type: PostLayout
 title: 'Terms Of Service-The Vijay Bharat Trading and services '
 date: '2022-10-10'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
