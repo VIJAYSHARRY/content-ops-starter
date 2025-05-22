@@ -56,6 +56,17 @@
                 "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Facebook",
+                "altText": "Facebook",
+                "url": "/bookkeeping",
+                "showIcon": true,
+                "icon": "facebook",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
