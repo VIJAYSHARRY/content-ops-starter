@@ -71,40 +71,6 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "secondaryLinks": {
-        "title": "THE VIJAY BHARAT TRADING AND SERVICES",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "Marketing",
-                "altText": "Marketing-THE VIJAY BHARAT TRADING AND SERVICES",
-                "url": "/Marketing",
-                "showIcon": false,
-                "icon": "",
-                "iconPosition": "left",
-                "style": "secondary",
-                "elementId": ""
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "Email link",
