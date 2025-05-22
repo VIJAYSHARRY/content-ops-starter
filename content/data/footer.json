@@ -34,6 +34,17 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "Business Consulting-The Vijay Bharat Trading And Services"
+            },
+            {
+                "type": "Link",
+                "label": "Facebook",
+                "altText": "Facebook",
+                "url": "/Business Consulting",
+                "showIcon": true,
+                "icon": "facebook",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
