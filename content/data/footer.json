@@ -60,13 +60,13 @@
             },
             {
                 "type": "Button",
-                "label": "Marketing",
+                "label": "Get started",
                 "altText": "",
                 "url": "/marketing",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "primary",
+                "style": "secondary",
                 "elementId": ""
             }
         ],
