@@ -63,7 +63,7 @@
                 "label": "Marketing",
                 "altText": "",
                 "url": "/marketing",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "",
                 "iconPosition": "right",
                 "style": "secondary",
