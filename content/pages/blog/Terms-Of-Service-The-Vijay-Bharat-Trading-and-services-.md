@@ -21,7 +21,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Terms of Service-The Vijay Bharat Trading and Services
-  metaDescription: lorem-ipsum
+  metaDescription: Terms of Service-The Vijay Bharat Trading and Services
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
