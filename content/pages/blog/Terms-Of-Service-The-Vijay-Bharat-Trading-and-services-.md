@@ -23,7 +23,8 @@ seo:
   metaTitle: Terms of Service-The Vijay Bharat Trading and Services
   metaDescription: Terms of Service-The Vijay Bharat Trading and Services
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 colors: bg-light-fg-dark
 styles:
   self:
