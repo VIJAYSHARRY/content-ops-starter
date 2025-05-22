@@ -81,8 +81,8 @@
             "type": "Social"
         },
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "altText": "YouTube || VIJAY BHARAT TRADING AND SERVICES PVT LTD",
+            "url": "https://www.youtube.com/@VijayBharatTradingAndServicesP",
             "icon": "youtube",
             "type": "Social"
         }
@@ -90,7 +90,7 @@
     "legalLinks": [
         {
             "label": "Terms of services",
-            "url": "/",
+            "url": "/Terms of services of THE VIJAY BHARAT TRADING AND SERVICES",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -107,6 +107,6 @@
         }
     ],
     "copyrightText": "Powered by The Vijay Bharat Trading And Services\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
