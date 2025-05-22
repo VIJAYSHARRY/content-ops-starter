@@ -2,7 +2,6 @@
 type: PostLayout
 title: 'Terms Of Service-The Vijay Bharat Trading and services '
 date: '2022-10-10'
-author: content/data/person1.json
 excerpt: ''
 bottomSections:
   - type: DividerSection
