@@ -98,10 +98,101 @@ styles:
   self:
     flexDirection: row
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+# **Terms of Service**
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+**Effective Date:** May 20, 2025
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Welcome to **THE VIJAY BHARAT TRADING AND SERVICES PRIVATE LIMITED** ("Company", "we", "our", "us"). These Terms of Service (“Terms”) govern your access to and use of our services, website, and any associated offerings (collectively, the “Services”).
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+By using our Services, you agree to be bound by these Terms. If you do not agree with them, please refrain from using our Services.
+
+
+
+## 1. **Company Information**
+
+**Company Name:** THE VIJAY BHARAT TRADING AND SERVICES PRIVATE LIMITED
+**Registered Address:** Sukhadia Circle, Balaji Tower Office B Line, Ganganagar, Rajasthan
+**Email:** [info@thevijaybharat.com]()
+**Phone:** +91 63756 27863
+
+
+
+## 2. **Eligibility and User Responsibilities**
+
+By using our Services, you represent that you are at least 18 years of age and legally capable of entering into binding agreements. You agree to use the Services only for lawful purposes and in compliance with all applicable laws.
+
+
+
+## 3. **User Accounts**
+
+Certain features may require you to create an account. You are responsible for maintaining the confidentiality of your login credentials and all activities that occur under your account.
+
+
+
+## 4. **Services Offered**
+
+We provide a variety of trading and service-based solutions. Details of each service offering may be outlined separately through our website or service agreements. We reserve the right to modify, add, or discontinue any service without prior notice.
+
+
+
+## 5. **Pricing and Payments**
+
+All pricing is subject to change without prior notice. Services must be paid for as per the terms agreed. We may utilize secure third-party payment processors. You agree to provide accurate billing information and to pay all charges incurred.
+
+
+
+## 6. **Intellectual Property**
+
+All content provided through our Services—including logos, text, graphics, and software—is the intellectual property of the Company or its licensors. Unauthorized use or reproduction is strictly prohibited.
+
+
+
+## 7. **Limitation of Liability**
+
+To the fullest extent permitted by law, the Company will not be liable for any indirect, incidental, or consequential damages resulting from your use of the Services.
+
+
+
+## 8. **Indemnification**
+
+You agree to indemnify and hold harmless the Company, its officers, employees, and affiliates from any claims, damages, or expenses arising out of your use of the Services or your violation of these Terms.
+
+
+
+## 9. **Privacy Policy**
+
+Your use of our Services is also governed by our Privacy Policy. Please review it to understand how your personal data is collected and used.
+
+
+
+## 10. **Termination of Services**
+
+We reserve the right to suspend or terminate your access to the Services at any time, without notice, for conduct that violates these Terms or is otherwise harmful to the Company or its users.
+
+
+
+## 11. **Governing Law**
+
+These Terms shall be governed by the laws of India. Any disputes shall be subject to the jurisdiction of the courts located in Ganganagar, Rajasthan.
+
+
+
+## 12. **Modifications to Terms**
+
+We may update these Terms from time to time. Any changes will be posted on this page with the updated effective date. Continued use of our Services constitutes your acceptance of the modified Terms.
+
+
+
+## 13. **Contact Us**
+
+If you have any questions regarding these Terms, please contact us at:
+
+**THE VIJAY BHARAT TRADING AND SERVICES PRIVATE LIMITED**
+
+Sukhadia Circle, Balaji Tower Office B Line
+
+Ganganagar, Rajasthan
+
+📞 +91 63756 27863
+
+✉️ [info@thevijaybharat.com]()
