@@ -20,7 +20,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Terms of Service-The Vijay Bharat Trading and Services
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
