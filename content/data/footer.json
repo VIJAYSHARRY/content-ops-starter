@@ -60,7 +60,7 @@
             },
             {
                 "type": "Button",
-                "label": "Get started",
+                "label": "Marketing",
                 "altText": "",
                 "url": "/marketing",
                 "showIcon": false,
