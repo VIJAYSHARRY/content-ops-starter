@@ -45,6 +45,17 @@
                 "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Facebook",
+                "altText": "Facebook",
+                "url": "/UAE-VAT",
+                "showIcon": true,
+                "icon": "facebook",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
