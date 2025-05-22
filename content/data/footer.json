@@ -62,7 +62,7 @@
                 "label": "Bookkeeping Services",
                 "altText": "Bookkeeping Services-The Vijay Bharat Trading Services",
                 "url": "/bookkeeping",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "facebook",
                 "iconPosition": "left",
                 "style": "secondary",
