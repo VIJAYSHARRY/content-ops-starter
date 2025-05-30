@@ -411,10 +411,10 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Generic Section With A Form
+      text: The Vijay Bharat Trading and Services
       color: text-dark
       type: TitleBlock
-    subtitle: Let’s get in touch
+    subtitle: Let’s Get in Touch
     text: >+
 
       Have a question, a business inquiry, or just want to say hello? We’re here
