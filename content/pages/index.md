@@ -412,7 +412,7 @@ sections:
     type: DividerSection
   - title:
       text: The Vijay Bharat Trading and Services
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
     subtitle: Let’s get in touch
     text: >+
