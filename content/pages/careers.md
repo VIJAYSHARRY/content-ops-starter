@@ -10,13 +10,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Get in Touch With Our Team
-    text: >+
-
+    text: >
       At The Vijay Bharat Trading and Services, we believe in building lasting
       partnerships. Our dedicated team is always ready to collaborate, provide
       tailored solutions, and support your business goals with integrity and
-      commitment
-
+      commitment.
     actions:
       - label: See open positions
         url: /
