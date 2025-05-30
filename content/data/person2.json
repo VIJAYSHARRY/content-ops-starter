@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "CA Chirag Khona",
+    "role": "Finance and Taxation Consultant",
     "image": {
-        "url": "/images/avatar2.svg",
-        "altText": "Faizah Chan",
+        "url": "/images/1672084709617.jpeg",
+        "altText": "CA Chirag Khona",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Qualified Chartered Accountant (Dec 2021) Experienced Audit Assistant with a demonstrated history of working in the Assurance services industry. Skilled in Internal Audit, Statutory Audit, Auditing, Finance, Tax Audits And Gst Audits. Worked with dynamic CA firms.\n"
 }
