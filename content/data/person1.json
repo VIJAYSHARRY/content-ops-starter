@@ -2,7 +2,6 @@
     "name": "MR VIJAY KUMAR",
     "role": "CEO & Founder",
     "image": {
-        "url": "/images/DSC_6958 copy.jpg",
         "altText": "Vijay Kumar Founder and CEO of The Vijay Bharat Trading and services PVT LTD",
         "styles": {
             "self": {
@@ -12,7 +11,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/20221230_025221.jpg"
     },
     "colors": "bg-light-fg-dark",
     "styles": {

@@ -86,9 +86,9 @@
             "altText": "About Us-The Vijay Bharat Trading and Services"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Careers",
+            "altText": "Careers-the vijay bharat trading and services",
+            "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
