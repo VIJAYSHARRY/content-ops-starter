@@ -11,7 +11,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/20221230_025221.jpg"
     },
     "colors": "bg-light-fg-dark",
     "styles": {
