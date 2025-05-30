@@ -10,12 +10,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Get in Touch With Our Team
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+
+      At The Vijay Bharat Trading and Services, we believe in building lasting
+      partnerships. Our dedicated team is always ready to collaborate, provide
+      tailored solutions, and support your business goals with integrity and
+      commitment
+
     actions:
       - label: See open positions
         url: /
