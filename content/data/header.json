@@ -42,41 +42,6 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "Development",
-            "altText": "Development-THE VIJAY BHARAT TRADING AND SERVICES",
-            "links": [
-                {
-                    "label": "WordPress Development",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "WordPress Development-THE VIJAY BHARAT TRADING AND SERVICES"
-                },
-                {
-                    "label": "Shopify Development ",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Shopify-THE VIJAY BHARAT TRADING AND SERVICES"
-                },
-                {
-                    "label": "One Time Setup Website",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "One Time Setup Website-The Vijay Bharat Trading And Services"
-                }
-            ],
-            "labelStyle": "primary",
-            "type": "SubNav"
-        },
-        {
             "label": "About Us",
             "url": "/about-The-Vijay-Bharat-Trading-and-services",
             "icon": "arrowRight",
