@@ -1,5 +1,5 @@
 ---
-title: 'Blogs-The Vijay Bharat Trading and services '
+title: Vijay Kumar Ram Kumar-Accountant And E-Commerce Executive
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
